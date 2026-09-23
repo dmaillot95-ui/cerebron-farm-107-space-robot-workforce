@@ -1,0 +1,14 @@
+{
+  "schema_version": "SPACE_BUS_V1",
+  "cycle_id": "SPACE-BUS-DELIVERY-0001",
+  "source": 106,
+  "destination": 107,
+  "source_repo": "cerebron-farm-106-space-energy-nuclear-digital-twin",
+  "destination_repo": "cerebron-farm-107-space-robot-workforce",
+  "payload": {
+    "canary": true,
+    "value": 106107
+  },
+  "epistemic": "CROSS_REPO_DELIVERY_CANARY_NOT_SIMULATION_STATE",
+  "payload_sha256": "computed-by-receiver"
+}
